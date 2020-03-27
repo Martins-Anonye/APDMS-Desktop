@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 27, 2009, 12:11:36 AM
+    Author     : Martins
+*/
+
+
+Button{
+    
+                         -fx-background-color:gray;
+                         -fx-background-radius:10;
+-fx-font-size:14;
+
+                                 -fx-text-fill:white;
+
+}
+
+BorderPane{
+    
+                             -fx-background-color:black;
+
+}
+Accordion, FlowPane{
+    
+                             -fx-background-color:black;
+
+}
+Text{
+    
+                             -fx-text-fill:white;
+
+}
+
+
+FlowPane Text{
+    
+                         -fx-font-color:blue;
+   -fx-fill:red; 
+
+}
+
+.aboutdev{
+    
+                                 -fx-background-color:black;
+
+    
+}
+
+
+
+.projectlabel{
+    
+}
+
+.textAreaprotopic{
+    
+    
+}
+
+.notifier{
+    
+
+                                     -fx-fill:red;
+
+                                     -fx-background-color:black;
+                                     -fx-background-radius:150;
+                                     
+
+}
+
+
+.control{
+    
+           -fx-background-color:black;
+
+}
+.control Text,.control Button{
+                                         -fx-fill:white;
+                                           -fx-text-fill:white;
+
+    
+}
+.menu-button{
+               -fx-background-color:black;
+
+         -fx-text-fill:white;
+                        -fx-fill:white;
+
+
+}
+.menu-button .label{
+               /*-fx-background-color:black;*/
+-fx-text-fill:white;
+    -fx-font-size:14;
+
+    
+}
+.menu-item .label{
+                                           -fx-text-fill:black;
+
+                   /*-fx-background-color:black;*/
+
+}
+TextArea,TextField{
+    -fx-font-size:14;
+
+    
+}
+
+
+/*updatebtn delbtn*/
+
+.updatebtn,.delbtn{
+                -fx-text-fill:white;
+
+    
+}
